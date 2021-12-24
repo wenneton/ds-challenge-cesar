@@ -2,7 +2,7 @@
 
 Este trabalho foi desenvolvido por Marcos Wenneton Araújo como parte do processo seletivo para integrar o time do Cesar Labs como Cientista de Dados.
 
-Os notebooks aqui apresentados foram desenvolvidos utilizando o ```Python 3.9``` e as seguintes bibliotecas:
+Os notebooks aqui apresentados foram desenvolvidos utilizando o ```Python 3.9.5``` e as seguintes bibliotecas:
 
 - pandas
 - sklearn
