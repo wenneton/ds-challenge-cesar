@@ -18,3 +18,4 @@ O conteúdo de cada notebook é apresentado a seguir:
 - ```model_creation.ipynb```:  Pré-processamento do conjunto de dados. Feature engineering. Feature selection. Partição dos dados. Pipeline para tratamento dos dados dispostos aos modelos. Técnicas de cross validation para busca de melhores hiperparâmetros. Treinamento e teste de modelos. Apresentação dos resultados obtidos. Próximos passos.
 
 
+Fonte dos dados: [Bias correction of numerical prediction model temperature forecast Data Set](https://archive.ics.uci.edu/ml/datasets/Bias+correction+of+numerical+prediction+model+temperature+forecast)
